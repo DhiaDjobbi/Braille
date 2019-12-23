@@ -1,0 +1,25 @@
+.root{
+    -fx-background-color: #383838;
+    -fx-font-size: 11pt;
+    }
+.label{
+    -fx-text-fill: #e8e8e8;
+}
+.button{
+    -fx-background-color: #AB4642;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 3;
+    -fx-font-weight: bold;
+}
+.button-blue{
+    -fx-background-color: #008DC2;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 3;
+}
+.essmi{
+    -fx-font: 15px Verdana;
+    -fx-background-color: #000000;
+    -fx-stroke: white;
+     fx-stroke-width: 1;
+    -fx-text-fill: #FF0000;
+}
